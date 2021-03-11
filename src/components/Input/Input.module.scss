@@ -1,0 +1,17 @@
+.input {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 20px;
+
+  label {
+    margin-bottom: 10px;
+  }
+  input {
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+  }
+}
